@@ -1,0 +1,649 @@
+[
+  {
+    "name": "City Palace",
+    "nightlyPrice": 250,
+    "cardBackground": "https://images.unsplash.com/photo-1695956353120-54ce5e91632b?q=80&w=1035&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "address": {
+      "streetAddress": "City Palace, Old City",
+      "city": "Udaipur",
+      "state": "Rajasthan",
+      "country": "India"
+    },
+    "rating": 4.5,
+    "accommodationType": "resort",
+    "photos": [
+      "https://images.unsplash.com/photo-1668577802672-677f0548cda5?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1618773928121-c32242e63f39?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "https://images.unsplash.com/photo-1647952132792-b3ea979c0418?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1536305030588-45dc07a2a372?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1656060524540-5dfe46313e70?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "overview": "City Palace in Udaipur, India, is a majestic heritage site that offers a blend of rich history and exquisite architecture, providing a captivating experience for visitors.",
+    "rooms": [
+      {
+        "name": "Royal Suite",
+        "description": "Indulge in opulence with this suite featuring traditional decor and modern amenities.",
+        "price": 300
+      },
+      {
+        "name": "Heritage Room",
+        "description": "Immerse yourself in the cultural charm of Udaipur with a stay in this elegantly appointed room.",
+        "price": 200
+      },
+      {
+        "name": "Palace View Suite",
+        "description": "Experience breathtaking views of the city and surrounding landscapes from this luxurious suite.",
+        "price": 400
+      },
+      {
+        "name": "Courtyard Retreat",
+        "description": "Relax in a tranquil ambiance with a stay in this comfortable room overlooking the palace courtyard.",
+        "price": 150
+      }
+    ],
+    "location": {
+      "lat": 24.5766,
+      "lng": 73.6836
+    },
+    "amenities": [
+      "Free WiFi",
+      "24-hour front desk",
+      "Concierge service",
+      "Fitness center",
+      "Indoor pool",
+      "Spa",
+      "On-site restaurant",
+      "Room service",
+      "Business center",
+      "Pet friendly"
+    ]
+  },
+  {
+    "name": "Taj Mahal Palace",
+    "nightlyPrice": 240,
+    "cardBackground": "https://images.unsplash.com/photo-1641366729365-4cfdca31bd82?q=80&w=925&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "address": {
+      "streetAddress": "Apollo Bunder, Colaba",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "country": "India"
+    },
+    "rating": 4.5,
+    "accommodationType": "hotel",
+    "photos": [
+      "https://www.tajhotels.com/content/dam/luxury/hotels/Taj_Mahal_Mumbai/images/gallery/ViewoftheGatewayofIndia-3x2.jpg/jcr:content/renditions/cq5dam.web.756.756.jpeg",
+      "https://www.tajhotels.com/content/dam/luxury/hotels/Taj_Mahal_Mumbai/images/gallery/Jiva%20Spa%20-%20Couples%20Suite.jpg/jcr:content/renditions/cq5dam.web.756.756.jpeg",
+      "https://www.tajhotels.com/content/dam/luxury/hotels/Taj_Mahal_Mumbai/images/gallery/Healthy%20Meals.jpg/jcr:content/renditions/cq5dam.web.756.756.jpeg",
+      "https://www.tajhotels.com/content/dam/luxury/hotels/Taj_Mahal_Mumbai/images/gallery/Harbour%20Bar%202.jpg/jcr:content/renditions/cq5dam.web.756.756.jpeg",
+      "https://www.tajhotels.com/content/dam/luxury/hotels/Taj_Mahal_Mumbai/images/gallery/Bed%20In%20Breakfast.jpg/jcr:content/renditions/cq5dam.web.756.756.jpeg"
+    ],
+    "overview": "Taj Mahal Palace in Mumbai, India, is an iconic luxury hotel located in the heart of the city, offering a perfect blend of history and modern elegance. Overlooking the Arabian Sea, this hotel provides a memorable experience for discerning travelers.",
+    "rooms": [
+      {
+        "name": "Presidential Suite",
+        "description": "Indulge in opulence with this suite featuring breathtaking sea views and world-class amenities.",
+        "price": 500
+      },
+      {
+        "name": "Heritage Room",
+        "description": "Immerse yourself in the cultural charm of Mumbai with a stay in this elegantly appointed room.",
+        "price": 300
+      },
+      {
+        "name": "Sea View Suite",
+        "description": "Experience breathtaking views of the Arabian Sea from this luxurious suite.",
+        "price": 700
+      },
+      {
+        "name": "City View Room",
+        "description": "Enjoy panoramic views of Mumbai's skyline from this comfortable room.",
+        "price": 250
+      }
+    ],
+    "location": {
+      "lat": 18.9217,
+      "lng": 72.8331
+    },
+    "amenities": [
+      "Free WiFi",
+      "24-hour front desk",
+      "Concierge service",
+      "Fitness center",
+      "Outdoor pool",
+      "Spa",
+      "On-site restaurant",
+      "Room service",
+      "Business center",
+      "Pet friendly"
+    ]
+  },
+  {
+    "name": "Taj Lake Palace",
+    "nightlyPrice": 720, 
+    "cardBackground": "https://www.tajhotels.com/content/dam/luxury/hotels/Taj_Lake_Palace_Udaipur/images/gallery/AAG_Exterior1w-3x2_1_1.jpg/jcr:content/renditions/cq5dam.web.756.756.jpeg", 
+    "address": {
+      "streetAddress": "Lake Pichola",
+      "city": "Udaipur",
+      "state": "Rajasthan",
+      "country": "India"
+    },
+    "rating": 4.7, 
+    "accommodationType": "resort",
+    "photos": [
+      "https://www.tajhotels.com/content/dam/luxury/hotels/Taj_Lake_Palace_Udaipur/images/gallery/R&S_27642338-H1-JagtarangSuite-Bathroom-3x2.jpg/jcr:content/renditions/cq5dam.web.756.756.jpeg",
+      "https://www.tajhotels.com/content/dam/luxury/hotels/Taj_Lake_Palace_Udaipur/images/gallery/Dining_27642388-H1-H0KNKL1B-3x2.jpg/jcr:content/renditions/cq5dam.web.756.756.jpeg",
+      "https://www.tajhotels.com/content/dam/luxury/hotels/Taj_Lake_Palace_Udaipur/images/gallery/S&E_27642416-H1-H0KNKL1D-3x2.jpg/jcr:content/renditions/cq5dam.web.756.756.jpeg",
+      "https://www.tajhotels.com/content/dam/luxury/hotels/Taj_Lake_Palace_Udaipur/images/gallery/R&S_Wogli_58587547-H1-Luxury_Room_L_V_Double_B_Palace_Butler_S-3x2.jpg/jcr:content/renditions/cq5dam.web.756.756.jpeg",
+      "https://www.tajhotels.com/content/dam/luxury/hotels/Taj_Lake_Palace_Udaipur/images/gallery/MewarMahalConferenceRoom3x2_1.jpg/jcr:content/renditions/cq5dam.web.756.756.jpeg"
+    ],
+    "overview": "Taj Lake Palace in Udaipur, Rajasthan, is a magnificent hotel situated on Lake Pichola, offering a unique and luxurious experience with its stunning architecture and scenic surroundings.",
+    "rooms": [
+      {
+        "name": "Royal Suite",
+        "description": "Indulge in opulence with this suite featuring traditional decor and modern amenities.",
+        "price": 1367
+      },
+      {
+        "name": "Lake View Room",
+        "description": "Enjoy breathtaking views of Lake Pichola from this elegantly appointed room.",
+        "price": 1270 
+      },
+      {
+        "name": "Palace View Suite",
+        "description": "Experience the grandeur of the palace with a stay in this luxurious suite.",
+        "price": 785
+      },
+      {
+        "name": "Courtyard Retreat",
+        "description": "Relax in a tranquil ambiance with a stay in this comfortable room overlooking the palace courtyard.",
+        "price": 720 
+      }
+    ],
+    "location": {
+      "lat": 24.5766,
+      "lng": 73.6836
+    },
+    "amenities": [
+      "Free WiFi",
+      "24-hour front desk",
+      "Concierge service",
+      "Fitness center",
+      "Outdoor pool",
+      "Spa",
+      "On-site restaurant",
+      "Room service",
+      "Business center",
+      "Pet friendly"
+    ]
+  },
+  {
+    "name": "The Oberoi Amarvilas",
+    "nightlyPrice": 570, 
+    "cardBackground": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/07/d3/93/amenities.jpg?w=900&h=-1&s=1", 
+    "address": {
+      "streetAddress": "Taj East Gate Road",
+      "city": "Agra",
+      "state": "Uttar Pradesh",
+      "country": "India"
+    },
+    "rating": 4.8, 
+    "accommodationType": "hotel",
+    "photos": [
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/07/d3/73/amenities.jpg?w=900&h=-1&s=1",
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/07/d3/b8/premier-room-with-balcony.jpg?w=900&h=-1&s=1",
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/07/d3/b6/premier-room-with-balconly.jpg?w=900&h=-1&s=1",
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/3f/d3/15/the-oberoi-amarvilas.jpg?w=900&h=-1&s=1",
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/76/37/8b/the-oberoi-amarvilas.jpg?w=900&h=-1&s=1"
+    ],
+    "overview": "The Oberoi Amarvilas in Agra, Uttar Pradesh, is a luxurious hotel located near the Taj Mahal, offering unparalleled views of this iconic monument. With its opulent decor and world-class amenities, it provides a truly royal experience for its guests.",
+    "rooms": [
+      {
+        "name": "Presidential Suite",
+        "description": "Indulge in the epitome of luxury with this expansive suite featuring exquisite decor and personalized services.",
+        "price": 1375 
+      },
+      {
+        "name": "Taj View Room",
+        "description": "Enjoy breathtaking views of the Taj Mahal from the comfort of this elegantly appointed room.",
+        "price": 1100 
+      },
+      {
+        "name": "Luxury Suite",
+        "description": "Experience luxury and comfort in this well-appointed suite with modern amenities and stunning views.",
+        "price": 825 
+      },
+      {
+        "name": "Premier Room",
+        "description": "Relax in style in this comfortable room offering a blend of modern convenience and traditional charm.",
+        "price": 570 
+      }
+    ],
+    "location": {
+      "lat": 27.1750,
+      "lng": 78.0422
+    },
+    "amenities": [
+      "Free WiFi",
+      "24-hour front desk",
+      "Concierge service",
+      "Fitness center",
+      "Outdoor pool",
+      "Spa",
+      "On-site restaurant",
+      "Room service",
+      "Business center",
+      "Pet friendly"
+    ]
+  },
+  {
+    "name": "ITC Grand Bharat, a Luxury Collection Retreat",
+    "nightlyPrice": 400, 
+    "cardBackground": "https://www.itchotels.com/content/dam/itchotels/in/umbrella/itc/hotels/itcgrandbharat-gurugram/images/overview/hotel-experience/design-detailing.png", 
+    "address": {
+      "streetAddress": "Hasanpur, Tauru",
+      "city": "Haryana",
+      "state": "Haryana",
+      "country": "India"
+    },
+    "rating": 4, 
+    "accommodationType": "resort",
+    "photos": [
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/8e/0d/d0/deluxe-suite-with-terrace--v13691.jpg?w=900&h=-1&s=1",
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/b3/12/2b/itc-grand-bharat.jpg?w=900&h=-1&s=1",
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/b3/12/e2/itc-grand-bharat.jpg?w=900&h=-1&s=1",
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/8e/0e/21/peacock-bar--v13691429.jpg?w=900&h=-1&s=1",
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/b3/0f/7b/itc-grand-bharat.jpg?w=900&h=-1&s=1"
+    ],
+    "overview": "ITC Grand Bharat, located in Hasanpur, Tauru, Haryana, is a luxurious retreat and a part of the esteemed Luxury Collection. Surrounded by lush greenery, it offers an exclusive and tranquil experience with its world-class facilities and impeccable hospitality.",
+    "rooms": [
+      {
+        "name": "Presidential Villa",
+        "description": "Experience unparalleled luxury in this expansive villa with exclusive amenities and personalized services.",
+        "price": 1100 
+      },
+      {
+        "name": "Garden View Suite",
+        "description": "Enjoy the serene views of the lush gardens from this elegantly appointed suite with modern comforts.",
+        "price": 725 
+      },
+      {
+        "name": "Luxury Pavilion",
+        "description": "Indulge in luxury and comfort in this well-appointed pavilion with a perfect blend of style and sophistication.",
+        "price": 560 
+      },
+      {
+        "name": "Deluxe Room",
+        "description": "Relax in style in this comfortable room offering modern amenities and a peaceful ambiance.",
+        "price": 498 
+      }
+    ],
+    "location": {
+      "lat": 28.3082,
+      "lng": 76.9873
+    },
+    "amenities": [
+      "Free WiFi",
+      "24-hour front desk",
+      "Concierge service",
+      "Fitness center",
+      "Outdoor pool",
+      "Spa",
+      "On-site restaurant",
+      "Room service",
+      "Business center",
+      "Pet friendly"
+    ]
+  },
+  {
+    "name": "The Leela Palace",
+    "nightlyPrice": 0, 
+    "cardBackground": "https://example.com/path/to/image", 
+    "address": {
+      "streetAddress": "Old Airport Road",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India"
+    },
+    "rating": 0, 
+    "accommodationType": "hotel",
+    "photos": [
+      "https://example.com/path/to/photo1",
+      "https://example.com/path/to/photo2",
+      "https://example.com/path/to/photo3",
+      "https://example.com/path/to/photo4",
+      "https://example.com/path/to/photo5"
+    ],
+    "overview": "The Leela Palace, located on Old Airport Road in Bengaluru, Karnataka, is a luxurious hotel known for its opulent architecture and impeccable service. With a perfect blend of traditional elegance and modern amenities, it offers a truly regal experience for its guests.",
+    "rooms": [
+      {
+        "name": "Grand Suite",
+        "description": "Indulge in grandeur with this spacious suite featuring luxurious decor and breathtaking views.",
+        "price": 0 
+      },
+      {
+        "name": "Executive Room",
+        "description": "Experience comfort and sophistication in this well-appointed room with modern amenities.",
+        "price": 0 
+      },
+      {
+        "name": "Royal Club Suite",
+        "description": "Enjoy exclusive privileges and a regal stay in this elegantly designed club suite.",
+        "price": 0 
+      },
+      {
+        "name": "Premier Room",
+        "description": "Relax in style in this comfortable room offering a perfect blend of luxury and convenience.",
+        "price": 0 
+      }
+    ],
+    "location": {
+      "lat": 12.9608,
+      "lng": 77.6476
+    },
+    "amenities": [
+      "Free WiFi",
+      "24-hour front desk",
+      "Concierge service",
+      "Fitness center",
+      "Outdoor pool",
+      "Spa",
+      "On-site restaurant",
+      "Room service",
+      "Business center",
+      "Pet friendly"
+    ]
+  },
+  {
+    "name": "Majestic Hotel Tower",
+    "nightlyPrice": 0, 
+    "cardBackground": "https://example.com/path/to/image", 
+    "address": {
+      "streetAddress": "Bur Dubai",
+      "city": "Dubai",
+      "state": "Dubai",
+      "country": "United Arab Emirates"
+    },
+    "rating": 0, 
+    "accommodationType": "hotel",
+    "photos": [
+      "https://example.com/path/to/photo1",
+      "https://example.com/path/to/photo2",
+      "https://example.com/path/to/photo3",
+      "https://example.com/path/to/photo4",
+      "https://example.com/path/to/photo5"
+    ],
+    "overview": "Majestic Hotel Tower, located in Bur Dubai, Dubai, UAE, is a popular choice among Indian travelers for its convenient location and warm hospitality. With its modern amenities and comfortable accommodations, it provides a delightful stay in the vibrant city of Dubai.",
+    "rooms": [
+      {
+        "name": "Executive Suite",
+        "description": "Indulge in luxury with this spacious suite offering modern decor and panoramic city views.",
+        "price": 0 
+      },
+      {
+        "name": "Deluxe Room",
+        "description": "Experience comfort in style with this well-appointed room featuring contemporary furnishings.",
+        "price": 0 
+      },
+      {
+        "name": "Majestic Suite",
+        "description": "Enjoy a lavish stay in this elegant suite with a separate living area and personalized services.",
+        "price": 0 
+      },
+      {
+        "name": "Standard Room",
+        "description": "Relax in this comfortable room offering all the essentials for a pleasant stay.",
+        "price": 0 
+      }
+    ],
+    "location": {
+      "lat": 25.2649,
+      "lng": 55.3020
+    },
+    "amenities": [
+      "Free WiFi",
+      "24-hour front desk",
+      "Concierge service",
+      "Fitness center",
+      "Outdoor pool",
+      "On-site restaurant",
+      "Room service",
+      "Business center"
+    ]
+  },
+  {
+    "name": "Jumeirah Beach Hotel",
+    "nightlyPrice": 0, 
+    "cardBackground": "https://example.com/path/to/image", 
+    "address": {
+      "streetAddress": "Jumeirah Street",
+      "city": "Dubai",
+      "state": "Dubai",
+      "country": "United Arab Emirates"
+    },
+    "rating": 0, 
+    "accommodationType": "hotel",
+    "photos": [
+      "[Photo 1 URL]",
+      "[Photo 2 URL]",
+      "[Photo 3 URL]",
+      "[Photo 4 URL]",
+      "[Photo 5 URL]"
+    ],
+    "overview": "Jumeirah Beach Hotel, situated on Jumeirah Street in Dubai, is a luxurious beachfront hotel offering stunning views of the Arabian Gulf. With its modern design and world-class amenities, it provides an upscale experience for guests.",
+    "rooms": [
+      {
+        "name": "Royal Suite",
+        "description": "Indulge in opulence with this spacious suite featuring luxurious decor and breathtaking views.",
+        "price": 0 
+      },
+      {
+        "name": "Ocean View Room",
+        "description": "Experience comfort in style with this well-appointed room featuring contemporary furnishings.",
+        "price": 0 
+      },
+      {
+        "name": "Executive Club Room",
+        "description": "Enjoy exclusive privileges and a regal stay in this elegantly designed club suite.",
+        "price": 0 
+      },
+      {
+        "name": "Family Suite",
+        "description": "Relax with your family in this spacious suite offering a blend of luxury and convenience.",
+        "price": 0 
+      }
+    ],
+    "location": {
+      "lat": 25.276987,
+      "lng": 55.321979
+    },
+    "amenities": [
+      "Free WiFi",
+      "Private Beach Access",
+      "Multiple Restaurants",
+      "Spa and Wellness Center",
+      "Kids' Club"
+    ]
+  },  
+  {
+    "name": "Atlantis, The Palm",
+    "nightlyPrice": 0, 
+    "cardBackground": "https://example.com/path/to/image", 
+    "address": {
+      "streetAddress": "Crescent Road, The Palm Jumeirah",
+      "city": "Dubai",
+      "state": "Dubai",
+      "country": "United Arab Emirates"
+    },
+    "rating": 0, 
+    "accommodationType": "resort",
+    "photos": [
+      "[Photo 1 URL]",
+      "[Photo 2 URL]",
+      "[Photo 3 URL]",
+      "[Photo 4 URL]",
+      "[Photo 5 URL]"
+    ],
+    "overview": "Atlantis, The Palm, located on the iconic Palm Jumeirah, is a world-renowned resort featuring unique marine and entertainment attractions. It offers a blend of luxury and adventure for a memorable stay.",
+    "rooms": [
+      {
+        "name": "Underwater Suite",
+        "description": "Experience the magic of the ocean in this unique underwater suite with mesmerizing views.",
+        "price": 0 
+      },
+      {
+        "name": "Ocean Deluxe Room",
+        "description": "Indulge in comfort with this deluxe room offering breathtaking views of the ocean.",
+        "price": 0 
+      },
+      {
+        "name": "Terrace Suite",
+        "description": "Enjoy outdoor living with a stay in this spacious suite featuring a private terrace.",
+        "price": 0 
+      },
+      {
+        "name": "Palm Beach Deluxe Room",
+        "description": "Relax on the beach with this deluxe room offering access to the pristine Palm Beach.",
+        "price": 0 
+      }
+    ],
+    "location": {
+      "lat": 25.1305,
+      "lng": 55.1172
+    },
+    "amenities": [
+      "Free WiFi",
+      "Aquaventure Waterpark Access",
+      "Marine Animal Adventures",
+      "Multiple Restaurants and Bars",
+      "Spa and Fitness Center"
+    ]
+  },
+  {
+    "name": "Motel Blue Oasis",
+    "nightlyPrice": 1500,
+    "cardBackground": "[Image URL]",
+    "address": {
+      "streetAddress": "123 Motel Street",
+      "city": "Jaipur",
+      "state": "Rajasthan",
+      "country": "India"
+    },
+    "rating": 3.8,
+    "accommodationType": "motel",
+    "photos": [
+      "[Photo 1 URL]",
+      "[Photo 2 URL]",
+      "[Photo 3 URL]",
+      "[Photo 4 URL]",
+      "[Photo 5 URL]"
+    ],
+    "overview": "Motel Blue Oasis in Jaipur offers a comfortable and budget-friendly stay. Conveniently located, it provides essential amenities for travelers exploring the city.",
+    "location": {
+      "lat": 26.9124,
+      "lng": 75.7873
+    },
+    "amenities": [
+      "Free WiFi",
+      "Parking",
+      "24-hour Front Desk",
+      "Air Conditioning",
+      "Restaurant"
+    ]
+  },
+  {
+    "name": "Motel Serenity Haven",
+    "nightlyPrice": 1200,
+    "cardBackground": "[Image URL]",
+    "address": {
+      "streetAddress": "456 Tranquil Lane",
+      "city": "Goa",
+      "state": "Goa",
+      "country": "India"
+    },
+    "rating": 4.2,
+    "accommodationType": "motel",
+    "photos": [
+      "[Photo 1 URL]",
+      "[Photo 2 URL]",
+      "[Photo 3 URL]",
+      "[Photo 4 URL]",
+      "[Photo 5 URL]"
+    ],
+    "overview": "Motel Serenity Haven in Goa provides a peaceful retreat for travelers seeking relaxation. With clean and cozy rooms, it offers a serene atmosphere.",
+    "location": {
+      "lat": 15.2993,
+      "lng": 74.1239
+    },
+    "amenities": [
+      "Free WiFi",
+      "Parking",
+      "Swimming Pool",
+      "Garden Area",
+      "Room Service"
+    ]
+  },
+  {
+    "name": "Dubai Palm Motel",
+    "nightlyPrice": 300,
+    "cardBackground": "[Image URL]",
+    "address": {
+      "streetAddress": "Palm Street",
+      "city": "Dubai",
+      "state": "Dubai",
+      "country": "United Arab Emirates"
+    },
+    "rating": 3.5,
+    "accommodationType": "motel",
+    "photos": [
+      "[Photo 1 URL]",
+      "[Photo 2 URL]",
+      "[Photo 3 URL]",
+      "[Photo 4 URL]",
+      "[Photo 5 URL]"
+    ],
+    "overview": "Dubai Palm Motel offers a convenient stay in the bustling city of Dubai. Situated on Palm Street, it provides affordable accommodations with easy access to key attractions.",
+    "location": {
+      "lat": 25.0755,
+      "lng": 55.1428
+    },
+    "amenities": [
+      "Free WiFi",
+      "Parking",
+      "24-hour Front Desk",
+      "Air Conditioning",
+      "Restaurant"
+    ]
+  },
+  {
+    "name": "Desert Rose Motel",
+    "nightlyPrice": 250,
+    "cardBackground": "[Image URL]",
+    "address": {
+      "streetAddress": "Sahara Avenue",
+      "city": "Abu Dhabi",
+      "state": "Abu Dhabi",
+      "country": "United Arab Emirates"
+    },
+    "rating": 4.0,
+    "accommodationType": "motel",
+    "photos": [
+      "[Photo 1 URL]",
+      "[Photo 2 URL]",
+      "[Photo 3 URL]",
+      "[Photo 4 URL]",
+      "[Photo 5 URL]"
+    ],
+    "overview": "Desert Rose Motel in Abu Dhabi provides a comfortable stay amidst the desert landscape. With warm hospitality, it offers a relaxing environment for travelers.",
+    "location": {
+      "lat": 24.4667,
+      "lng": 54.3666
+    },
+    "amenities": [
+      "Free WiFi",
+      "Parking",
+      "Swimming Pool",
+      "24-hour Front Desk",
+      "Room Service"
+    ]
+  }   
+  ]
