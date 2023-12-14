@@ -1,2 +1,2 @@
-# NamasteStays
+# NamasteEstate
 MEAN stack real estate site
