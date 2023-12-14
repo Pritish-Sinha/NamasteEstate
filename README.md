@@ -1,2 +1,2 @@
 # NamasteStays
-MEAN stack Hotel booking site
+MEAN stack real estate site
