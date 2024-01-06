@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Green Valley Residency",
+    "price": "55,000",
+    "detail": "Sarita Vihar, Delhi",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Silicon Heights",
+    "price": "75,800",
+    "detail": "Koramangala, Bangalore, Karnataka",
+    "image": "./r2.png"
+  },
+  {
+    "name": "Gujarat Greens",
+    "price": "42,500",
+    "detail": "Vastrapur, Ahmedabad, Gujarat",
+    "image": "./r3.png"
+  },
+  {
+    "name": "Majestic Residency",
+    "price": "59,500",
+    "detail": "Rohini, Delhi",
+    "image": "./r4.png"
+  },
+  {
+    "name": "Tech Park Towers",
+    "price": "80,200",
+    "detail": "HSR Layout, Bangalore, Karnataka",
+    "image": "./r5.png"
+  },
+  {
+    "name": "Serene Homes",
+    "price": "45,600",
+    "detail": "Gandhinagar, Gujarat",
+    "image": "./r6.png"
+  }
+]

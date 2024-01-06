@@ -1,0 +1,31 @@
+:root {
+  --background: #F6F4F2; /* Updated BISTRE */
+  --text: #425664; /* Updated VEGAS GOLD */
+  --primary: #C6AD8F; /* Updated DESERT SAND */
+  --secondary: #FFFFFF; /* Updated WHITE */
+}
+
+.f-container {
+  display: flex;
+  justify-content: space-between;
+  border-top: 1px solid rgba(0, 0, 0, 0.15);
+  background-color: var(--background);
+}
+
+.f-menu {
+  gap: 1.5rem;
+  margin-top: 1.5rem;
+  font-weight: 500;
+  color: var(--text);
+}
+
+@media (max-width: 768px) {
+  .f-container {
+    justify-content: center;
+  }
+
+  .f-container > div {
+    align-items: center !important;
+    text-align: center;
+  }
+}

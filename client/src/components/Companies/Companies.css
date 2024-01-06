@@ -1,0 +1,17 @@
+:root {
+    --background: #353839; /* Updated ONYX */
+    --text: #8b8589; /* Updated TAUPE GRAY */
+    --primary: #f5f5f5; /* Updated WHITE SMOKE */
+    --accent: #436b95; /* Updated QUEEN BLUE */
+    --accent-hover: #48d1cc; /* Updated MEDIUM TURQUOISE */
+  }
+  
+  .c-container {
+    justify-content: space-around;
+    gap: 1rem;
+  }
+  
+  .c-container > img {
+    width: 9rem;
+  }
+  

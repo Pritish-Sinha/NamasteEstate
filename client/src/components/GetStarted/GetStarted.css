@@ -1,0 +1,34 @@
+:root {
+    --background: #F6F4F2; /* Updated BISTRE */
+    --text: #425664; /* Updated VEGAS GOLD */
+    --primary: #C6AD8F; /* Updated DESERT SAND */
+    --secondary: #FFFFFF; /* Updated WHITE */
+    --accent: #eeeeff; /* Updated PALM LEAF */
+    --shadow: 0px 6px 6px -3px rgba(0, 0, 0, 0.3);
+  }
+  
+  .inner-container {
+    gap: 1.5rem;
+    background: var(--background);
+    padding: 2rem;
+    border-radius: 10px;
+    border: 6px solid var(--primary);
+    text-align: center;
+  }
+  
+  .inner-container .primaryText {
+    color: var(--text);
+    font-weight: 600;
+  }
+  
+  .inner-container .secondaryText {
+    color: (--accent);
+  }
+  
+  .inner-container .button {
+    background: var(--text);
+    border: 2px solid var(--text);
+    box-shadow: var(--shadow);
+    border-radius: 10px;
+  }
+  
