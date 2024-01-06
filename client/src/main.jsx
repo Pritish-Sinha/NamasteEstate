@@ -10,7 +10,7 @@ ReactDOM.createRoot(document.getElementById("root")).render(
      domain="dev-t2uh1ay4qp5l5kla.us.auth0.com"
      clientId="DyFOEMaILj6c3Ej3Jwe59pktWSbTNs1J"
      authorizationParams={{
-      redirect_uri: "http://localhost:5173"
+      redirect_uri: "https://namaste-estate.vercel.app"
      }}
      audience="http://localhost:8000"
      scope="openid profile email"
