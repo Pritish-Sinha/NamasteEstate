@@ -42,7 +42,6 @@ const Header = () => {
             style={getMenuStyles(menuOpened)}
           >
             <NavLink to="/properties">Properties</NavLink>
-            <NavLink to="/contact">Contact</NavLink>
             {/* add property */}
             <div onClick={handleAddPropertyClick}>Add Property</div>
             <AddPropertyModal opened={modalOpened} setOpened={setModalOpened} />
