@@ -3,6 +3,7 @@
   --moonstone-blue: #73a9a9;
   --powder-blue: #b0e0e6;
   --magic-mint: #aaf0d1;
+  --beige:#f5f5dc;
   --white-smoke: #f6f4f2; /* Updated background color */
   --orange-gradient: linear-gradient(45deg, #ff8c00, #ffa500);
 }
@@ -67,7 +68,7 @@
 
 .stat > :nth-child(1) {
   font-size: 2rem;
-  color: var(--teal-blue);
+  color: var(--white-smoke);
 }
 
 .stat > :nth-child(1) > :last-child {
@@ -112,7 +113,7 @@
 
   .stat > :nth-child(1) {
     font-size: 1.5rem;
-    color: var(--teal-blue);
+    color: var(--beige);
   }
 
   .stat > :nth-child(2) {

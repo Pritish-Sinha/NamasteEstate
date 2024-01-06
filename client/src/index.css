@@ -79,6 +79,10 @@ a {
   color: rgb(140 139 139);
   font-size: 0.9rem;
 }
+.tertiaryText {
+  color: rgb(1245, 245, 220);
+  font-size: 0.9rem;
+}
 .orangeText {
   color: orange;
   font-size: 1.5rem;

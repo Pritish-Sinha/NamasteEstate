@@ -25,7 +25,7 @@ const Hero = () => {
               <br /> 
             </motion.h1>
           </div>
-          <div className="flexColStart secondaryText flexhero-des">
+          <div className="flexColStart tertiaryText flexhero-des">
             <span>Discover a variety of homes that perfectly suit you and your family</span>
             <span>Forget the challenges in finding the ideal residence for you in the heart of India</span>
           </div>
@@ -38,21 +38,21 @@ const Hero = () => {
               <span>
                 <CountUp start={0} end={12} duration={2} /> <span>+</span>
               </span>
-              <span className="secondaryText">Developers</span>
+              <span className="tertiaryText">Developers</span>
             </div>
 
             <div className="flexColCenter stat">
               <span>
                 <CountUp start={140} end={200} duration={4} /> <span>+</span>
               </span>
-              <span className="secondaryText">Happy Customer</span>
+              <span className="tertiaryText">Happy Customer</span>
             </div>
 
             <div className="flexColCenter stat">
               <span>
                 <CountUp end={28} /> <span>+</span>
               </span>
-              <span className="secondaryText">Contracts</span>
+              <span className="tertiaryText">Contracts</span>
             </div>
           </div>
         </div>
