@@ -1,2 +1,2 @@
 # NamasteEstates
-MEAN stack real estate site
+MERN stack real estate site
